@@ -12535,10 +12535,11 @@ textarea {
   color: #fff;
 }
 .invoice {
-  min-width: 1100px;
+  min-width: 90%;
   max-width: 1170px;
   padding: 2.5rem;
   border-radius: 2px;
+  margin: auto;
 }
 .invoice__header {
   padding: 1.5rem;
